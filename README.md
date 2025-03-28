@@ -1,12 +1,3 @@
-Group members: Xinyuan Hu, Jingyao Wang Wu, Lyla Wu 
-
-Our emails: xhu36@u.rochester.edu, ywu143@u.rochester.edu, jwangwu@u.rochester.edu
-
-Submitter: Jingyao Wang Wu
-
-To avoid discrepancies, a TA told us that only one person should submit everything, while the other two group members
-can just submit the README. 
-
 # Overview
 This program is a Bayesian Network Inference Tool designed to compute posterior probabilities using two methods: exact inference and approximate inference. It reads a Bayesian network structure and its associated conditional probability tables (CPTs) from an XML file. Users can input evidence and query variables to calculate probabilities based on the Bayesian network model.
 
